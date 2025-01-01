@@ -1224,7 +1224,7 @@
 
 #define FLAG_NO_BAG_USE                                             0x493 // Disables bag use in battle
 #define FLAG_VS_SEEKER                                              0x494 // Enables VS Seeker
-#define FLAG_UNUSED_0x495                                           0x495 // Unused Flag
+#define FLAG_PARTY_MOVES                                            0x495 // Enables move relearner from menu
 #define FLAG_UNUSED_0x496                                           0x496 // Unused Flag
 #define FLAG_UNUSED_0x497                                           0x497 // Unused Flag
 #define FLAG_UNUSED_0x498                                           0x498 // Unused Flag
