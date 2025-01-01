@@ -199,7 +199,7 @@ const u8 gText_ThePC[] = _("the PC");
 const u8 gText_PlayedPokeFluteCatchy[] = _("Played the POKé FLUTE.\pNow, that's a catchy tune!{PAUSE_UNTIL_PRESS}");
 const u8 gText_PlayedPokeFlute[] = _("Played the POKé FLUTE.");
 const u8 gText_PokeFluteAwakenedMon[] = _("The POKé FLUTE awakened sleeping\nPOKéMON.{PAUSE_UNTIL_PRESS}");
-const u8 gText_Moves_Menu[] = _("Change Moves");
+const u8 gText_Moves_Menu[] = _("CHANGE MOVES");
 
 const u8 *const gBagMenu_ReturnToStrings[] =
 {
